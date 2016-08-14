@@ -1,0 +1,7 @@
+945
+USA
+17
+LOC_ALERT: USAtweeted 17times
+Pacific Time (US & Canada)
+109
+LOC_ALERT: USAtweeted 17times TZ_ALERT: Pacific Time (US & Canada)has been tweeted 109times
